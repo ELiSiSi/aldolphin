@@ -1,6 +1,6 @@
 :root {
-  --main-color: #ce0000;
-  --secondary-color: #ffffff;
+  --main-color: #3D509F;
+  --secondary-color: #3A4729;
 }
 
 html {
@@ -114,7 +114,7 @@ body {
   margin-top: 50px;
   display: grid;
 
-  grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax( 1fr));
 
   gap: 0px;
 }
@@ -130,7 +130,7 @@ body {
 
     display: grid;
 
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+
 
     gap: -0px;
   }
